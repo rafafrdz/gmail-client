@@ -11,7 +11,7 @@ object ExampleIOApp extends IOApp.Simple {
   lazy val gmail: GMailClient =
     GMailClient
       .build
-      .user("email@gmail.com") // GMail Account
+      .user("email@gmail.com") // Gmail Account
       .password("password") // Gmail Password
       .ssl
       .create
