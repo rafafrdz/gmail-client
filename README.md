@@ -42,4 +42,11 @@ object ExampleIOApp extends IOApp.Simple {
 }
 ```
 
+## References
+
+* [Doc] [Gmail SMTP protocol](https://support.google.com/a/answer/176600?hl=es#gmail-smpt-option)
+* [Repo] [Spinoco/fs2-mail](https://github.com/Spinoco/fs2-mail)
+* [Repo] [OfficeDev/ews-java-api](https://github.com/OfficeDev/ews-java-api)
+* [Repo] [dmurvihill/courier](https://github.com/dmurvihill/courier)
+
 
